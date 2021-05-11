@@ -52,3 +52,7 @@ Development
 - Notes:
 #####################################
 Deployment
+
+#####################################
+Setup develop enviroment
+https://docs.google.com/document/d/1NcqDUbU3EAQqce6BY9KMOIobMgK-ZdygiqoExRdT2OU/edit?usp=sharing
