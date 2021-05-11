@@ -50,8 +50,10 @@ Development
 - SQL procedure: p_promotion_export
 - XLSX template: 
 - Notes:
+
 #####################################
 Deployment
+
 
 #####################################
 Setup develop enviroment
